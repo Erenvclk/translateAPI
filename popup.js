@@ -27,6 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
   
           resultDiv.innerText = "Çevriliyor...";
   
+          // todo: add api key here
 
   
           const data = await response.json();
